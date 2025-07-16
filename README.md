@@ -1,16 +1,44 @@
-## Hi there 👋
+ # 👋 Hi, I'm Simphiwe Angel Matsinne
 
-<!--
-**Simphiwe-Angel/Simphiwe-Angel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎨 Self-taught **web developer** and **nail tech**  
+💻 Passionate about creating beautiful and responsive websites  
+🌱 Currently learning: JavaScript, GitHub Pages, and freelancing
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 My Projects
+
+### 🌐 Coffee Café Website  
+**Live Site:** [coffee-cafe](https://simphiwe-angel.github.io/coffee-cafe/)  
+**Source Code:** [GitHub Repo](https://github.com/simphiwe-angel/coffee-cafe)  
+> A stylish menu site for a coffee business with images and categories.
+
+### 🧮 Calculator App  
+**Live Site:** [calculator](https://simphiwe-angel.github.io/calculator/)  
+**Source Code:** [GitHub Repo](https://github.com/simphiwe-angel/calculator)  
+> A simple and clean calculator made with HTML, CSS, and JavaScript.
+
+---
+
+## 🛠️ Skills
+
+- HTML5, CSS3
+- GitHub
+- GitHub Pages
+- Responsive Web Design
+- Creative UI Thinking
+
+---
+
+## 💼 Open to Opportunities
+
+I’m looking for:
+- Freelance web design gigs
+- Volunteer projects to build my portfolio
+- Collaborations with other creators
+
+📧 **Contact me at:**matsinnesa@gmail.com**
+
+---
+
+> ✨ Let’s build something amazing together!
